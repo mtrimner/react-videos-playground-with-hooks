@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "youtube"
+    ],
+    "files.exclude": {
+        "**/.git": false
+    }
+}
